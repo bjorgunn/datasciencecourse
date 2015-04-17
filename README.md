@@ -1,4 +1,4 @@
 # datasciencecourse
 File for datasciencecourse
 
-bjorgunn
+.gitignore.
